@@ -1,0 +1,399 @@
+{
+  "bills": {
+    "-ONK3lLXoUMP0ngvG-v2": {
+      "items": [
+        {
+          "name": "Trà sữa trân châu: ",
+          "price": 30000,
+          "quantity": 6
+        },
+        {
+          "name": "Trà sữa thái xanh: ",
+          "price": 30000,
+          "quantity": 4
+        }
+      ],
+      "timestamp": "08/04/2025 18:04:50",
+      "total": 300000
+    },
+    "-ONK4DQkuuPyxI49-usp": {
+      "timestamp": "08/04/2025 18:06:49",
+      "total": 0
+    },
+    "-ONNlIkjf4YIRztPpVel": {
+      "items": [
+        {
+          "name": "Trà sữa thái xanh: ",
+          "price": 30000,
+          "quantity": 2
+        },
+        {
+          "name": "Trà sữa thái đỏ: ",
+          "price": 30000,
+          "quantity": 2
+        },
+        {
+          "name": "Trà sữa matcha: ",
+          "price": 30000,
+          "quantity": 2
+        }
+      ],
+      "timestamp": "09/04/2025 11:18:16",
+      "total": 180000
+    },
+    "-ONO5lp1cykqLRbOahHN": {
+      "items": [
+        {
+          "name": "Trà sữa trân châu: ",
+          "price": 30000,
+          "quantity": 1
+        },
+        {
+          "name": "Trà sữa thái xanh: ",
+          "price": 30000,
+          "quantity": 1
+        },
+        {
+          "name": "Trà sữa thái đỏ: ",
+          "price": 30000,
+          "quantity": 1
+        }
+      ],
+      "timestamp": "09/04/2025 12:52:04",
+      "total": 90000
+    },
+    "-ONO5nkAskmha9ecgsFi": {
+      "items": [
+        {
+          "name": "Cơm cháy: ",
+          "price": 35000,
+          "quantity": 1
+        },
+        {
+          "name": "Gà khô: ",
+          "price": 35000,
+          "quantity": 2
+        },
+        {
+          "name": "Hướng dương: ",
+          "price": 20000,
+          "quantity": 1
+        }
+      ],
+      "timestamp": "09/04/2025 12:52:12",
+      "total": 125000
+    },
+    "-ONO5qU0Fh_VU4AIMVM4": {
+      "items": [
+        {
+          "name": "Khoai lang kén: ",
+          "price": 30000,
+          "quantity": 1
+        },
+        {
+          "name": "Trà chanh dây: ",
+          "price": 15000,
+          "quantity": 1
+        },
+        {
+          "name": "Trà tắc: ",
+          "price": 15000,
+          "quantity": 2
+        },
+        {
+          "name": "Trà vải: ",
+          "price": 20000,
+          "quantity": 2
+        }
+      ],
+      "timestamp": "09/04/2025 12:52:24",
+      "total": 115000
+    },
+    "-ONOI7bDCbqUf76l8RSF": {
+      "items": [
+        {
+          "name": "Trà sữa trân châu: ",
+          "price": 30000,
+          "quantity": 1
+        },
+        {
+          "name": "Bò khô: ",
+          "price": 35000,
+          "quantity": 1
+        },
+        {
+          "name": "Khoai lang kén: ",
+          "price": 30000,
+          "quantity": 1
+        }
+      ],
+      "timestamp": "09/04/2025 13:46:03",
+      "total": 95000
+    },
+    "-ONOVb2Ii76RELKxu0s6": {
+      "items": [
+        {
+          "name": "Cơm cháy: ",
+          "price": 35000,
+          "quantity": 2
+        },
+        {
+          "name": "Hướng dương: ",
+          "price": 20000,
+          "quantity": 1
+        },
+        {
+          "name": "Bò khô: ",
+          "price": 35000,
+          "quantity": 1
+        },
+        {
+          "name": "Khoai tây chiên",
+          "price": 30000,
+          "quantity": 1
+        },
+        {
+          "name": "Trà chanh dây: ",
+          "price": 15000,
+          "quantity": 3
+        }
+      ],
+      "timestamp": "09/04/2025 14:44:56",
+      "total": 200000
+    },
+    "-ONPh4oiW88QJUKhKszV": {
+      "items": [
+        {
+          "name": "Trà sữa trân châu: ",
+          "price": 30000,
+          "quantity": 1
+        }
+      ],
+      "timestamp": "09/04/2025 20:19:10",
+      "total": 30000
+    },
+    "-ONTGR8k5q6SHkPPs2gm": {
+      "items": [
+        {
+          "name": "Cơm cháy: ",
+          "price": 35000,
+          "quantity": 1
+        },
+        {
+          "name": "Hướng dương: ",
+          "price": 20000,
+          "quantity": 1
+        },
+        {
+          "name": "Gà khô: ",
+          "price": 35000,
+          "quantity": 2
+        },
+        {
+          "name": "Bò khô: ",
+          "price": 35000,
+          "quantity": 1
+        },
+        {
+          "name": "Khoai lang kén: ",
+          "price": 30000,
+          "quantity": 1
+        }
+      ],
+      "timestamp": "10/04/2025 12:56:48",
+      "total": 190000
+    },
+    "-ONUQJiJ9nCZEUGbkqfh": {
+      "items": [
+        {
+          "name": "Cơm cháy: ",
+          "price": 35000,
+          "quantity": 2
+        },
+        {
+          "name": "Hướng dương: ",
+          "price": 20000,
+          "quantity": 2
+        },
+        {
+          "name": "Gà khô: ",
+          "price": 35000,
+          "quantity": 2
+        }
+      ],
+      "timestamp": "10/04/2025 18:19:38",
+      "total": 180000
+    },
+    "-ONUQYky0wLlb9_OQV3c": {
+      "items": [
+        {
+          "name": "Trà sữa thái xanh: ",
+          "price": 30000,
+          "quantity": 1
+        },
+        {
+          "name": "Trà sữa thái đỏ: ",
+          "price": 30000,
+          "quantity": 1
+        }
+      ],
+      "timestamp": "10/04/2025 18:20:40",
+      "total": 60000
+    },
+    "-ONUbALLxjx2N6NYosu4": {
+      "items": [
+        {
+          "name": "Trà tắc: ",
+          "price": 15000,
+          "quantity": 1
+        },
+        {
+          "name": "Khoai tây chiên",
+          "price": 30000,
+          "quantity": 2
+        }
+      ],
+      "timestamp": "10/04/2025 19:11:25",
+      "total": 75000
+    },
+    "-ONUcuZYvXkyx1v-5mrv": {
+      "items": [
+        {
+          "name": "Cơm cháy: ",
+          "price": 35000,
+          "quantity": 2
+        },
+        {
+          "name": "Hướng dương: ",
+          "price": 20000,
+          "quantity": 1
+        },
+        {
+          "name": "Gà khô: ",
+          "price": 35000,
+          "quantity": 1
+        },
+        {
+          "name": "Bò khô: ",
+          "price": 35000,
+          "quantity": 1
+        },
+        {
+          "name": "Khoai lang kén: ",
+          "price": 30000,
+          "quantity": 1
+        },
+        {
+          "name": "Trà chanh dây: ",
+          "price": 15000,
+          "quantity": 1
+        },
+        {
+          "name": "Trà tắc: ",
+          "price": 15000,
+          "quantity": 1
+        },
+        {
+          "name": "Trà đào: ",
+          "price": 20000,
+          "quantity": 1
+        }
+      ],
+      "timestamp": "10/04/2025 19:19:01",
+      "total": 240000
+    },
+    "-ONVUU8-u2BBf0-SQEhm": {
+      "items": [
+        {
+          "name": "Trà sữa trân châu: ",
+          "price": 30000,
+          "quantity": 3
+        },
+        {
+          "name": "Trà sữa thái xanh: ",
+          "price": 30000,
+          "quantity": 1
+        },
+        {
+          "name": "Trà sữa thái đỏ: ",
+          "price": 30000,
+          "quantity": 2
+        }
+      ],
+      "timestamp": "10/04/2025 23:17:21",
+      "total": 180000
+    }
+  },
+  "menu": {
+    "food01": {
+      "name": "Trà sữa trân châu: ",
+      "price": 30000,
+      "url": "https://i.imgur.com/dtHP6dl.png"
+    },
+    "food02": {
+      "name": "Trà sữa thái xanh: ",
+      "price": 30000,
+      "url": "https://i.imgur.com/SnwFC3i.png"
+    },
+    "food03": {
+      "name": "Trà sữa thái đỏ: ",
+      "price": 30000,
+      "url": "https://i.imgur.com/NbvmgcT.png"
+    },
+    "food04": {
+      "name": "Trà sữa matcha: ",
+      "price": 30000,
+      "url": "https://i.imgur.com/kb29r0t.png"
+    },
+    "food05": {
+      "name": "Trà đào: ",
+      "price": 20000,
+      "url": "https://i.imgur.com/PkSEypF.png"
+    },
+    "food06": {
+      "name": "Trà vải: ",
+      "price": 20000,
+      "url": "https://i.imgur.com/3q1QZx0.png"
+    },
+    "food07": {
+      "name": "Trà tắc: ",
+      "price": 15000,
+      "url": "https://i.imgur.com/WcfOLkE.png"
+    },
+    "food08": {
+      "name": "Trà chanh dây: ",
+      "price": 15000,
+      "url": "https://i.imgur.com/n05M22x.png"
+    },
+    "food09": {
+      "name": "Khoai tây chiên",
+      "price": 30000,
+      "url": "https://i.imgur.com/s3hp05H.png"
+    },
+    "food10": {
+      "name": "Khoai lang kén: ",
+      "price": 30000,
+      "url": "https://i.imgur.com/5S4Q7LI.png"
+    },
+    "food11": {
+      "name": "Bò khô: ",
+      "price": 35000,
+      "url": "https://i.imgur.com/vLvDjlg.png"
+    },
+    "food12": {
+      "name": "Gà khô: ",
+      "price": 35000,
+      "url": "https://i.imgur.com/QDk3M6G.png"
+    },
+    "food13": {
+      "name": "Hướng dương: ",
+      "price": 20000,
+      "url": "https://i.imgur.com/Y5uEUnS.png"
+    },
+    "food15": {
+      "name": "Cơm cháy: ",
+      "price": 35000,
+      "url": "https://i.imgur.com/n5n3IGx.png"
+    }
+  }
+}
