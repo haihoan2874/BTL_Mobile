@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="15dp"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp">
+
+        <!-- ImageView cho ảnh món ăn -->
+        <ImageView
+            android:id="@+id/item_icon"
+            android:layout_width="120dp"
+            android:layout_height="90dp"
+            android:src="@drawable/ic_launcher_background" /> <!-- Thay bằng ảnh thực tế -->
+
+        <!-- TextView cho tên món ăn -->
+        <TextView
+            android:id="@+id/txt_namefood"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/item_icon"
+            android:layout_marginLeft="10dp"
+            android:text="Tên món ăn"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <!-- TextView cho giá món ăn -->
+        <TextView
+            android:id="@+id/txt_pricefood"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_toRightOf="@+id/item_icon"
+            android:layout_below="@+id/txt_namefood"
+            android:layout_marginTop="15dp"
+            android:text="Giá"
+            android:textColor="#E95A5A"
+            android:textSize="16sp" />  <!-- Sử dụng sp thay vì dp -->
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_below="@+id/txt_namefood"
+            android:layout_marginTop="30dp"
+            android:layout_toEndOf="@+id/txt_pricefood"
+            android:background="#D5D5D5"
+            android:gravity="center"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp">
+
+
+            <ImageView
+                android:id="@+id/btn_removeQuantity"
+                android:layout_width="wrap_content"
+                android:layout_height="27dp"
+                android:background="@drawable/baseline_remove_24" />
+
+            <TextView
+                android:id="@+id/txt_quantity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:text="1"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/btn_addQuantity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/baseline_add_24"
+                android:textAlignment="center" />
+        </LinearLayout>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

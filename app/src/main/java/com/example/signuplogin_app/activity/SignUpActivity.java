@@ -1,4 +1,4 @@
-package com.example.signuplogin_app;
+package com.example.signuplogin_app.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,13 +11,10 @@ import android.widget.Toast;
 import androidx.activity.EdgeToEdge;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 
+import com.example.signuplogin_app.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
-import com.google.firebase.Firebase;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
@@ -56,7 +53,7 @@ public class SignUpActivity extends AppCompatActivity {
                         public void onComplete(@NonNull Task<AuthResult> task) {
                             if(task.isSuccessful()){
                                 Toast.makeText(SignUpActivity.this, "Đăng ký thành công", Toast.LENGTH_SHORT).show();
-                                startActivity(new Intent(SignUpActivity.this,LoginActivity.class));
+                                startActivity(new Intent(SignUpActivity.this, LoginActivity.class));
                             }else{
                                 Toast.makeText(SignUpActivity.this, "Đăng ký không thành công" + task.getException().getMessage(), Toast.LENGTH_SHORT).show();
                             }
